@@ -59,7 +59,7 @@ insert into UserDetails Values (9123456789,'mitesh@gmail.com','mitesh09', 'test0
 insert into UserDetails Values (8123456789,'azim@gmail.com','azim08', 'test08', 'Mulund','08-01-1998');
 insert into UserDetails Values (7123456789,'mrunal@gmail.com','mrunal07', 'test07', 'Andheri','07-02-1998');
 insert into UserDetails Values (6123456789,'nupur@gmail.com','nupur06', 'test06', 'Airoli','06-03-1998');
-insert into UserDetails Values (5123456789,'azar@gmail.com','azar05', 'test05', 'Chennai','05-14-1998');
+insert into UserDetails Values (5123456789,'azar@gmail.com','azar05', 'test05', 'Chennai','05-12-1998');
 select * from UserDetails
 
 insert into VehicleDetails Values(1,9123456789,'Maruti','Maruti Dezirezxi','Four Wheeler','MH18202000008775',
